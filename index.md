@@ -5,7 +5,6 @@ layout: default
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -20,14 +19,13 @@ layout: default
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Hi there, I'm Keghna!</h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="mailto:sil.meghna@gmail.com">email</a></li>
+        		<li><a href="https://github.com/megsil">github.com/megsil</a></li>
 			</ul>
 		</footer>
 	</body>
