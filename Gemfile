@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+
+theme: jekyll-theme-cayman
 source "https://rubygems.org"
 
 #gem "minima"
