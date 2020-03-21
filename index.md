@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+### MEGHNA SIL
 
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<!-- link to main stylesheet -->
@@ -31,7 +32,6 @@ layout: default
 	</body>
 </html>
 
-### MEGHNA SIL
 
 > Hello
 
