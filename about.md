@@ -3,16 +3,13 @@ layout: page
 ---
 
 ### About
-permalink: /about.html
+permalink: /about
 
 
 
 
 <html>
 	<head>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
 	<body>
 		<div class="container">
     		<div class="blurb">
