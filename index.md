@@ -19,7 +19,7 @@ layout: default
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Keghna!</h1>
+        		<h1>Hi there, I'm Meghna!</h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
