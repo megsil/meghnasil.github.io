@@ -3,4 +3,4 @@ layout: page
 ---
 
 ### About
-permalink: /about
+permalink: /blog/about
