@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### About
-permalink: /about
+permalink: /about.html
 
 
 
