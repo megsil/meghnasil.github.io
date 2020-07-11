@@ -13,7 +13,7 @@ permalink: /about
 	<body>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Meghna!</h1>
+        		<h1>Welcome to my thoughts!</h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
