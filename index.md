@@ -20,12 +20,11 @@ layout: default
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Meghna!</h1>
+        		<h1>Welcome to my thoughts!</h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:sil.meghna@gmail.com">email</a></li>
         		<li><a href="https://github.com/megsil">github.com/megsil</a></li>
 			</ul>
 		</footer>
