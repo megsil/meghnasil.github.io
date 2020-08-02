@@ -5,19 +5,7 @@ layout: default
 
 
 <html>
-<script>
-  window.watsonAssistantChatOptions = {
-      integrationID: "3ab56190-8c42-4b24-907e-554bfa095df3", // The ID of this integration.
-      region: "us-south", // The region your integration is hosted in.
-      serviceInstanceID: "df9c73a6-a44d-4750-8758-5e42c951c698", // The ID of your service instance.
-      onLoad: function(instance) { instance.render(); }
-    };
-  setTimeout(function(){
-    const t=document.createElement('script');
-    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
-    document.head.appendChild(t);
-  });
-</script>
+
 	<head>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
